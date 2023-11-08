@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "./notes_app_server/DB/NotesDB",
+            "dialect": "SQLite",
+            "name": "Notes"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
